@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view.backgroundColor = .blue
         self.view.tintColor = .green
+        print("why isn't this working help")
         
         // Do any additional setup after loading the view.
     }
